@@ -1,0 +1,1 @@
+bs-stepper é uma biblioteca JavaScript baseada no Bootstrap que facilita a criação de assistentes (ou "wizards") de formulários ou fluxos de etapas. Com o bs-stepper, você pode criar um fluxo de múltiplas etapas, onde o usuário pode navegar entre diferentes seções de um formulário ou processo de forma estruturada e intuitiva.
